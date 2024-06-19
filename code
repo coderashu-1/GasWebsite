@@ -1,0 +1,250 @@
+<div class="container">
+            <h2 class="page-title">Projects</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Project Name</th>
+                        <th>Type of Work</th>
+                        <th>Total Work</th>
+                        <th>Status</th>
+                        <th>Company</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Existing Projects Rows -->
+                    <tr>
+                        <td>Sushma Grande I & II, Chandigarh</td>
+                        <td>Residential Reticulated</td>
+                        <td>552 Flats</td>
+                        <td>Completed</td>
+                        <td>Sushma Buildtech Limited</td>
+                    </tr>
+                    <tr>
+                        <td>SBP City of Dreams, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>144 Flats</td>
+                        <td>Completed</td>
+                        <td>SBP Group</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Golf Vista, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>140 Flats</td>
+                        <td>Completed</td>
+                        <td>Aura Buildtech Pvt. Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Maxxus Elanza, Zirakpur</td>
+                        <td>Residential Reticulated</td>
+                        <td>Ongoing</td>
+                        <td>Maxxus Developers</td>
+                        <td>Maxxus Developers</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Grande NXT, Zirakpur</td>
+                        <td>Residential Reticulated</td>
+                        <td>Ongoing</td>
+                        <td>Deepak Builders & Engineers India Ltd.</td>
+                        <td>Deepak Builders & Engineers India Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Aura Gazania, Zirakpur</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Aura Buildtech Pvt. Ltd.</td>
+                        <td>Aura Buildtech Pvt. Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Maxxus Elanza, Zirakpur</td>
+                        <td>Residential Reticulated</td>
+                        <td>Ongoing</td>
+                        <td>Maxxus Developers</td>
+                        <td>Maxxus Developers</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Purab Preamiam, Apartments, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Deepak Builders & Engineers India Ltd.</td>
+                        <td>Deepak Builders & Engineers India Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project-SBP COD-5, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>SBP Homes</td>
+                        <td>SBP Group</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Acme Eden Court, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Acme Builders Pvt. Ltd.</td>
+                        <td>Acme Builders Pvt. Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Bestech Parkview Residences, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Bestech Builders & Developers</td>
+                        <td>Bestech Builders & Developers</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Burj One, Zirakpur</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Silicon Construction Pvt. Ltd.</td>
+                        <td>Silicon Construction Pvt. Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Purab Preamiam, Apartments, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Ridhi Sidhi Infra Pvt.Ltd.</td>
+                        <td>Ridhi Sidhi Infra Pvt.Ltd.</td>
+                    </tr>
+                    <tr>
+                        <td>Project-SKY 25, Jaip</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>Shree Malhar Associates</td>
+                        <td>Shree Malhar Associates</td>
+                    </tr>
+                    <tr>
+                        <td>Project-Kamal Greenleaf</td>
+                        <td>Residential Reticulated</td>
+                        <td>Completed</td>
+                        <td>The Foothill Corperative Housing building Society Limited</td>
+                        <td>The Foothill Corperative Housing building Society Limited</td>
+                    </tr>
+                    <tr>
+                        <td>Sector 91, Mohali</td>
+                        <td>Residential Reticulated</td>
+                        <td>Ongoing</td>
+                        <td>Sandwood Infratech Projects Private Limited</td>
+                        <td>Sandwood Infratech Projects Private Limited</td>
+                    </tr>
+
+                    <!-- New Commercial Installations Rows -->
+                    <tr>
+                        <td>Project-LAVASA CITY</td>
+                        <td>BULK AND LOT INST.</td>
+                        <td>ΤΕΝ ΤΟΝ</td>
+                        <td>Completed</td>
+                        <td>HCC LTD</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                    <tr>
+                        <td>Project - Jubilee Walk</td>
+                        <td>Commercial Reticulated</td>
+                        <td>68 Food Court & Restaurant - 15</td>
+                        <td>Completed</td>
+                        <td>JUBILEE BUILDERS</td>
+                    </tr>
+                    <tr>
+                        <td>Project- Maxxon Celebrations, Zirakpur</td>
+                        <td>Commercial Reticulated</td>
+                        <td>50 Food Court & 10 Restaurant</td>
+                        <td>Completed</td>
+                        <td>MAXXON GROUP</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
